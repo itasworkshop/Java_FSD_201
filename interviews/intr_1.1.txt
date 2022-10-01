@@ -1,0 +1,4 @@
+1) what is oops?
+2) what is class and object?
+3) what is constructor?
+4) what is this keyword?
