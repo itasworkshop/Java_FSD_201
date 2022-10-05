@@ -1,0 +1,7 @@
+3) Create command line application for calculator?
+4) create cmd app for pizza order?
+Menu --> 
+ask user for faviorte pizza
+ask user quantity
+Final bill
+checkout
