@@ -6,6 +6,8 @@
 //empty enquiry form --> class
 //filled enquiry form --> object
 
+//1) abstraction, 2) inheritance, 3) polymorphism, 4) encapsulation
+
 class Student{
 
     int id;
